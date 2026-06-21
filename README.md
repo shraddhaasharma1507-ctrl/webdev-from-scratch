@@ -1,4 +1,4 @@
-# Web Development Practice
+# WebDev from Scratch
 🚀 Documenting my journey of learning Web Development through the Sigma Web Development Course by CodeWithHarry.
 
 This repository contains my practice work and learning progress from the Sigma Web Development Course by CodeWithHarry.
